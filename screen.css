@@ -1,1 +1,13 @@
-/* Add screen styles below */
+/* Unrelated to CSS Framework */
+
+html{
+    margin: 50px;
+    background-color: #ffe5ec;
+
+}
+
+header{
+    background-color: #ffc1d1;
+    padding: 20px;
+    text-align: center;
+}
